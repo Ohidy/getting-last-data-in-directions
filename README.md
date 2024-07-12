@@ -9,3 +9,4 @@ here i choose right it will show me whatever i picked and retuns it
 it will allow me to choose aging so if another user wants to try it will be easier this way and the data will be saved in my database like this 
 ![Screenshot 2024-07-12 170736](https://github.com/user-attachments/assets/f820513b-debe-4171-8544-bb537df89911)
 it whill keep saving the last data in the website i added also the time the last changes made at so i can keep on track with changes 
+![Screenshot 2024-07-12 181827](https://github.com/user-attachments/assets/abd8c24f-1d3e-463d-af8c-a5af5616554c)
